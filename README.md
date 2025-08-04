@@ -1,4 +1,4 @@
-# FreeCAD Ship Parts Generator
+# FreeCAD Parts Generator
 
 🚢 Python + FreeCAD を用いて、鋼板部品（穴あき平板）をスクリプトから自動生成するツールです。
 保存先等の設定が無いと動作しません。
